@@ -21,3 +21,4 @@ Each module describes separate topic in learning JS.
 - [Event Loop](./src/event-loop.js)
 - [Async execution](./src/async-await-promises.js)
 - [HTTP basics](./src/http.js)
+- [NPM basics](./src/npm.js)
